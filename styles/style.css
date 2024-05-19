@@ -77,7 +77,7 @@ blockquote {
 }
 
 .cover__title {
-  font-family: "EB Garamond";
+  font-family: "EB Garamond", serif;
   font-weight: 400;
   font-size: 72px;
   line-height: 72px;
@@ -127,7 +127,7 @@ blockquote {
 }
 
 .content-section__subtitle {
-  font-family: "EB Garamond";
+  font-family: "EB Garamond", serif;
   font-weight: 500;
   font-size: 28px;
   line-height: 32.2px;
@@ -205,7 +205,7 @@ blockquote {
 }
 
 .card__title {
-  font-family: "EB Garamond";
+  font-family: "EB Garamond", serif;
   font-weight: 500;
   font-size: 22px;
   line-height: 29.7px;
@@ -225,6 +225,7 @@ blockquote {
 .footer__links {
   display: flex;
   column-gap: 16px;
+  list-style: none;
 }
 
 .footer__links a {
